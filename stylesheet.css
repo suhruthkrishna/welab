@@ -1,0 +1,118 @@
+body{
+    font-family: Avenir Next;
+}
+.header{
+     background-color: #bdf7f1;
+     height:90px;
+}
+.main{
+    background-color:none;
+    height:600px;
+}
+.footer{
+    background-color:   #ceccf3;
+    height:270px;
+    margin-top: 250px;
+}
+li {
+    list-style: none;
+    float: left;
+    padding-top:33px;
+    padding-right: 20px;
+    padding-bottom:33px;
+    padding-left: 20px;
+   }
+.header-logo {
+    float: left;
+    font-size: 36px;
+    padding-top:20x;
+    padding-right: 40px;
+    padding-bottom:20px;
+    padding-left: 40px;
+    }
+.header-list li{
+        float: left;
+        padding: 33px 20px;
+       }
+.footer {
+    background-color: #2f5167;
+    color:#fff ;
+    height:120px;
+    padding-top:40x;
+    padding-right: 40px;
+    padding-bottom:40px;
+    padding-left: 40px;
+    }
+.footer-logo{
+        font-size:medium;
+        float:left;
+    }
+.footer-list{
+        float: left;
+    }
+.footer-list li{
+        padding-bottom:20px;
+    }
+.main {
+    background-color:none;
+    height: none;
+    padding-top:100x;
+    padding-right: 80px;
+    padding-bottom:100px;
+    padding-left: 80px;
+}
+.copy-container h1{
+    font-size:140px;
+}
+.copy-container h2{
+    font-size:60px;
+}
+.copy-container span{
+    color: #ff4a4a;
+}
+.contents{
+    height:500px;
+   }
+   .section-title{
+    border-bottom: 2px solid #dee7ec;
+    font-size :28px ;
+    padding-bottom :15px;
+    margin-bottom:50px;
+   }
+   .contents-item{
+       float: left;
+       margin-right: 40px;
+   }
+   .contents {
+    height: 500px;
+    margin-top:400px;
+   }
+   .contents-item p {
+    font-size:24px ;
+    margin-top:30px;
+}
+.contact-form{
+    padding-top:100px ;
+}
+input {
+    width:400px;
+ margin-top:10px;
+ margin-bottom:30px;
+ padding:20px;
+ font-size:18px;
+ border:1px solid #dee7ec;
+}
+textarea{
+    width:400px;
+ margin-top:10px;
+ margin-bottom:30px;
+ padding:20px;
+ font-size:18px;
+ border:1px solid #dee7ec;
+}
+.contact-submit{
+    background-color: #dee7ec;
+    text-decoration-color: #889eab ;
+}
+
+       
